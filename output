@@ -1,0 +1,31 @@
+------------ ------ ------- ------------
+Name         Type   Scope   Line Numbers
+------------ ------ ------- -------------
+pd                  	0     8
+record       Dictionary
+	0    36  42  43  47
+year         Integer	0    69  72  77
+download            	0     7
+temp         Integer	1    46  48
+urllib              	0     7
+salary       Integer	0    19  23  48  49  50  53  55  56  57  60  61  77
+four                	0     5
+months       Integer	2    20  24
+worker       Class  	0    12  17  29
+sqlite3             	0     9
+test2               	0     2
+test3               	0     4
+test4               	0     5
+worker1      worker 	0    12  13  29  30
+Apolieste           	1    73
+i                   	0    47
+x            Lambda 	0    64  64  66  66
+y            Lambda 	0    64  64
+z            Lambda 	0    64  64  65  65
+exper        Float  	0    69
+giorgos             	2    26
+money               	0    72
+stoixia      Method 	0    13  25  30
+sinartisi    Function	0    72  77
+name                	2    18  22  25  26  27
+pandas              	0     8
